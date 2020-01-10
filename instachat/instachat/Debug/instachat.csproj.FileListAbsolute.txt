@@ -1,0 +1,13 @@
+C:\Users\Dddsh\Desktop\chat\instachat\instachat\bin\Debug\instachat.exe.config
+C:\Users\Dddsh\Desktop\chat\instachat\instachat\bin\Debug\instachat.exe
+C:\Users\Dddsh\Desktop\chat\instachat\instachat\bin\Debug\instachat.pdb
+C:\Users\Dddsh\Desktop\chat\instachat\instachat\obj\Debug\instachat.csprojAssemblyReference.cache
+C:\Users\Dddsh\Desktop\chat\instachat\instachat\obj\Debug\instachat.Form1.resources
+C:\Users\Dddsh\Desktop\chat\instachat\instachat\obj\Debug\instachat.Properties.Resources.resources
+C:\Users\Dddsh\Desktop\chat\instachat\instachat\obj\Debug\instachat.csproj.GenerateResource.cache
+C:\Users\Dddsh\Desktop\chat\instachat\instachat\obj\Debug\instachat.exe
+C:\Users\Dddsh\Desktop\chat\instachat\instachat\obj\Debug\instachat.pdb
+C:\Users\Dddsh\Desktop\chat\instachat\instachat\obj\Debug\instachat.Form2.resources
+C:\Users\Dddsh\Desktop\chat\instachat\instachat\obj\Debug\instachat.Form3.resources
+C:\Users\Dddsh\Desktop\chat\instachat\instachat\obj\Debug\instachat.Form4.resources
+C:\Users\Dddsh\Desktop\chat\instachat\instachat\obj\Debug\instachat.Form5.resources
